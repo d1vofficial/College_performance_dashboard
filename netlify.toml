@@ -13,4 +13,4 @@
 
 [build]
 	functions = "functions/"
-	publish = "src/"
+	publish = "dist/"
